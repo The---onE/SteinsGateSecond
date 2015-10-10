@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SteinsGateSecond</string>
+    <string name="loading">时钟更新ing……</string>
+    <string name="loaded">时钟正在运行中</string><string name="action_settings">Settings</string>
+    <string name="ps">\n\n\n\n\n请在桌面上添加挂件。\n\n程序进程关闭时，时钟会停止更新，重新运行本程序即可恢复。\n\n\n\n</string>
+    
+
+</resources>
